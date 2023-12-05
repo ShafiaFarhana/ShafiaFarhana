@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShafiaFarhana
-- 👀 I’m currently learning python, Computational Chemistry
+- 👀 I’m currently learning Python, Computational Chemistry
 
 <!---
 ShafiaFarhana/ShafiaFarhana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
